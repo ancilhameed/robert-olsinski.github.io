@@ -1,0 +1,19 @@
+/* Google Translate Widget Styling */
+#google_translate_element {
+    position: absolute;
+    top: 15px;
+    right: 15px;
+    z-index: 9999;
+}
+
+.goog-te-gadget {
+    font-family: 'Inter', sans-serif !important;
+}
+
+.goog-te-gadget select {
+    padding: 6px 10px;
+    border-radius: 6px;
+    border: 1px solid #ccc;
+    background: white;
+    font-size: 14px;
+}
